@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_size">28sp</dimen>
+    <dimen name="game_text_size">22sp</dimen>
+    <dimen name="announcement_text_size">48sp</dimen>
+</resources>

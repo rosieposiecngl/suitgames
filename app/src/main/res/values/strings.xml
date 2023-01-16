@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Suit Game!</string>
+    <string name="game_txt_vs">VS</string>
+    <string name="player_1_win">Player 1 win!</string>
+    <string name="com_win">Com win!</string>
+    <string name="draw">Draw!</string>
+    <string name="game_title_kertas">KERTAS</string>
+    <string name="game_title_gunting">GUNTING</string>
+    <string name="game_title_batu">BATU</string>
+    <string name="game_txt_pemain">Pemain 1</string>
+    <string name="game_txt_com">Com</string>
+    <string name="splash_txt_suit">SUIT</string>
+    <string name="splash_txt_game">GAME</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vs_pemain">vs pemain</string>
+    <string name="vs_computer">vs computer</string>
+    <string name="menu_act_title">PILIH LAWANMU</string>
+</resources>

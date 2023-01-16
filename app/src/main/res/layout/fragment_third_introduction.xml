@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".introduction.content.ThirdIntroductionFragment">
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/profile" />
+
+    <TextView
+        style="@style/text_onboarding_detail"
+        android:text="Tuliskan namamu di bawah" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/edit_text_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="24dp"
+        />
+</androidx.appcompat.widget.LinearLayoutCompat>
